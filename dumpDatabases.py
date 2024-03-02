@@ -104,7 +104,7 @@ def extract_ids_from_paths(paths):
 parser = argparse.ArgumentParser(description='Transfer specific app cache files from an iOS device to PC.')
 parser.add_argument('-i', '--appid', required=False, help='AppID of the iOS application.')
 parser.add_argument('-H', '--host', required=True, help='IP or hostname of jailbroken iOS device.')
-parser.add_argument('-o', '--output', default='./DUMP', help='Local file path for storing the files (default is current directory).')
+parser.add_argument('-o', '--output', default='./', help='Local file path for storing the files (default is current directory).')
 parser.add_argument('-v', '--version', action='store_true', help='Set output of tool to verbose to monitor file transfers.')
 parser.add_argument('--find-app-id', required=False, help='Provide the name of the App to find the App\'s ID. Adding this parameter will cause the program to ignore the -i flag.')
 

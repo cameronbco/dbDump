@@ -10,4 +10,9 @@ This is a Python script to assist in dumping files on a jailbroken iOS device fo
 ## Installation
 `pip -r requirements`
 ## Examples
-
+* Finding App ID:
+  ![image](https://github.com/cameronbco/dbDump/assets/70172203/d2be943e-2cbf-414e-be49-11cff1288f97)
+* Dumping .db, .sqlite and .plist files using verbose mode:
+  ![image](https://github.com/cameronbco/dbDump/assets/70172203/74e239ba-6297-4506-80c2-f3b6aa9ce4d5)
+* Output produced when ran successfully
+  ![image](https://github.com/cameronbco/dbDump/assets/70172203/239bcea0-14e4-46b6-8906-6245d10e4cf2)

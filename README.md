@@ -15,4 +15,4 @@ This is a Python script to assist in dumping files on a jailbroken iOS device fo
 * Dumping .db, .sqlite and .plist files using verbose mode:
   ![image](https://github.com/cameronbco/dbDump/assets/70172203/74e239ba-6297-4506-80c2-f3b6aa9ce4d5)
 * Output produced when ran successfully
-  ![image](https://github.com/cameronbco/dbDump/assets/70172203/239bcea0-14e4-46b6-8906-6245d10e4cf2)
+  ![image](https://github.com/cameronbco/dbDump/assets/70172203/664aca37-213a-4682-8c49-eda1789bbb93)

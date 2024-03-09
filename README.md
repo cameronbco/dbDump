@@ -8,6 +8,6 @@ This is a Python script to assist in dumping files on a jailbroken iOS device fo
 * Root access to jailbroken device
 * Python3
 ## Installation
-pip -r requirements
+`pip -r requirements`
 ## Examples
 
